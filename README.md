@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdaniels4th
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on AI/ML projects
+- 💞️ I’m looking to collaborate on ML/AI projects
 - 📫 How to reach me rdaniels4th@gmail.com
 
 <!---
