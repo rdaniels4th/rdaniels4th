@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rdaniels4th
 - 👀 I’m interested data science and data intensive applications
 - 🌱 I’m currently learning sofware engineering principles for data science
-- 💞️ I’m looking to collaborate on ML/AI projects and usecases
+- 💞️ I’m looking to collaborate on ML/AI projects
 - 📫 How to reach me rdaniels4th@gmail.com
 
 <!---
