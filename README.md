@@ -10,7 +10,7 @@ In middle school, I began my adventure with Python, a passion that was rekindled
 * ✉️  You can contact me at [rdaniels4th@gmail.com](mailto:rdaniels4th@gmail.com)
 * 🧠  I'm learning Enhancing my software engineering skills, particularly around a new framework that's geared towards data science applications.
 * 🤝  I'm open to collaborating on Innovative ML/AI projects, as well as other data-intensive applications that can benefit from my expertise.
-* ⚡  Beyond my professional endeavors, I am deeply passionate about chess and volunteer at the Boys & Girls Clubs of America. My days at Woodberry Forest School saw me as the Varsity Cross Country Captain, igniting a lasting passion for distance running. I've also immersed myself in drumming, particularly enjoying the improvisational beats of Rock & Blues.
+* ⚡  Beyond my professional endeavors, I am deeply passionate about chess and volunteer at the Boys & Girls Clubs of America. My days at Woodberry Forest School saw me as a Cross Country runner, igniting a lasting passion for distance running. I've also immersed myself in drumming, particularly enjoying the improvisational beats of Rock & Blues.
 
 <a href="https://www.twitter.com/rdaniels4th" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/rdaniels4th?logo=twitter&style=for-the-badge&color=22c55e&labelColor=27272a"
