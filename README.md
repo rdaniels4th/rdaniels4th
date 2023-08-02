@@ -7,7 +7,7 @@ Data Scientist Co-op at Inspire Brands and Student at Georgia Tech
 In middle school, I began my adventure with Python, a passion that was rekindled during my sophomore year. This resurgence came when I teamed up with a friend to craft a sports algorithm, which further led me to take CS1301 at Georgia Tech. I have an innate ability to detect complex patterns across vast systems. My keen interest in financial analysis and physics serves as a strong foundation for these endeavors. As a predominantly self-taught individual, I relish the continuous process of learning and refining my expertise.
 
 * 🌍  I'm based in Atlanta, Georgia
-* ✉️  You can contact me at [rdaniels4th@gmail.com](mailto:rdaniels4th@gmail.com)
+* ✉️  You can contact me at [rdaniels43@gatech.edu](mailto:rdaniels43@gatech.edu)
 * 🧠  I'm learning Enhancing my software engineering skills, particularly around a new framework that's geared towards data science applications.
 * 🤝  I'm open to collaborating on Innovative ML/AI projects, as well as other data-intensive applications that can benefit from my expertise.
 * ⚡  Beyond my professional endeavors, I am deeply passionate about chess and volunteer at the Boys & Girls Clubs of America. My days at Woodberry Forest School saw me as a Cross Country runner, igniting a lasting passion for distance running. I've also immersed myself in drumming, particularly enjoying improvisational Rock & Blues.
