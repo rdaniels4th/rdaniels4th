@@ -8,7 +8,7 @@ In middle school, I began my adventure with Python, a passion that was rekindled
 
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [rdaniels43@gatech.edu](mailto:rdaniels43@gatech.edu)
-* 🧠  I'm learning Enhancing my software engineering skills, particularly around a new framework that's geared towards data science applications.
+* 🧠  I'm learning enhancing my software engineering skills, particularly around a new framework that's geared towards data science applications.
 * 🤝  I'm open to collaborating on Innovative ML/AI projects, as well as other data-intensive applications that can benefit from my expertise.
 * ⚡  Beyond my professional endeavors, I am deeply passionate about chess and volunteer at the Boys & Girls Clubs of America. My days at Woodberry Forest School saw me as a Cross Country runner, igniting a lasting passion for distance running. I've also immersed myself in drumming, particularly enjoying improvisational Rock & Blues.
 
