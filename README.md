@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Royden E. Daniels IV
 ============================================================================================================================================
 
-Data Scientist Co-op at Inspire Brands and Student at Georgia Tech
+Student at Georgia Tech
 ------------------------------------------------------------------
 
 In middle school, I began my adventure with Python, a passion that was rekindled during my sophomore year. This resurgence came when I teamed up with a friend to craft a sports algorithm, which further led me to take CS1301 at Georgia Tech. I have an innate ability to detect complex patterns across vast systems. My keen interest in financial analysis and physics serves as a strong foundation for these endeavors. As a predominantly self-taught individual, I relish the continuous process of learning and refining my expertise.
